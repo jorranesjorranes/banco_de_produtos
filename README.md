@@ -1,4 +1,4 @@
-# banco_de_produtos
+# banco de produtos
 <P>
 Descrição:<br>
 "Projeto back-end java simples de um banco de cadastro de produtos, utilizando-se de Spring Boot, Eclipse, Postman e banco de dados H2. 
